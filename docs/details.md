@@ -1,11 +1,6 @@
 # Teaching Material
----
-layout: page
-title: About Me
-permalink: /about/
----
 
-
+---
 
 This site contains links to all the presentations, books, video tutorials and other notes I use for teaching computer programming and related subjects.
 
