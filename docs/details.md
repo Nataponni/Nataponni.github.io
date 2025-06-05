@@ -1,4 +1,6 @@
-This site contains links to all the presentations, books, video tutorials and other notes I use for teaching computer programming and related subjects.
+This site contains links to materials and notes I created or use during my classes at Bulme.
+It includes lesson content, useful tools, and personal documentation.
+
 
 * [Bulme](https://www.bulme.at)
 * [VSCode](https://code.visualstudio.com)
