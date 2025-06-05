@@ -1,7 +1,3 @@
----
-title: Teaching Material
----
-
 # Teaching Material
 
 This site contains links to all the presentations and notes I use for my lessons.
