@@ -1,4 +1,11 @@
 # Teaching Material
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+
 
 This site contains links to all the presentations, books, video tutorials and other notes I use for teaching computer programming and related subjects.
 
@@ -12,7 +19,4 @@ This site contains links to all the presentations, books, video tutorials and ot
 * [SSH Configuration](#)
 * [Using OpenSSH](#)
 
-## 🌐 Web Links
-* [Bulme](https://www.bulme.at)
-* [VSCode](https://code.visualstudio.com)
-* [GitHub](https://github.com)
+- [About Me](about.md)

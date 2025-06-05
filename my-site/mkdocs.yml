@@ -1,7 +1,0 @@
-site_name: My Docs
-
-nav:
-  - Home: index.md
-  - About: about.md
-  - Details: details.md
-
