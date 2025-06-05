@@ -3,4 +3,5 @@
 
 * [Bulme](https://www.bulme.at)
 * [Google](https://www.google.com)
-* ![image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
+* ![image](https://kiev.kurorts.com/storage/images/.thumbs/995b5e3a8ea416a12dc5fd8002cd3515_565_0_0.jpg) 
+* [Teaching Material](about.md)
